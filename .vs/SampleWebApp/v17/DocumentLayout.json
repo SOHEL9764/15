@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\sohai\\OneDrive\\Desktop\\14\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{27B818ED-DF22-40A2-95D9-C0B0C3002915}|SampleWebApp.csproj|c:\\users\\sohai\\onedrive\\desktop\\14\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{27B818ED-DF22-40A2-95D9-C0B0C3002915}|SampleWebApp.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{27B818ED-DF22-40A2-95D9-C0B0C3002915}|SampleWebApp.csproj|c:\\users\\sohai\\onedrive\\desktop\\14\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{27B818ED-DF22-40A2-95D9-C0B0C3002915}|SampleWebApp.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
@@ -22,11 +26,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\sohai\\OneDrive\\Desktop\\14\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\sohai\\OneDrive\\Desktop\\14\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-19T15:03:48.982Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\sohai\\OneDrive\\Desktop\\14\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
@@ -38,7 +55,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\sohai\\OneDrive\\Desktop\\14\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
@@ -51,7 +68,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "SampleWebApp.csproj",
               "DocumentMoniker": "C:\\Users\\sohai\\OneDrive\\Desktop\\14\\SampleWebApp.csproj",
               "RelativeDocumentMoniker": "SampleWebApp.csproj",
